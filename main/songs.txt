@@ -5,4 +5,4 @@ Butcher.dfpwm
 IGNORE.dfpwm
 oil.dfpwm
 creedance.dfpwm
-Excuse_me.dfpwm
+Excuse-me.dfpwm
