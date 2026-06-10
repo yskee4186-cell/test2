@@ -1,7 +1,7 @@
-The_Church_Bells_May_Ring.dfpwm
-All_I_Have_to_Do_Is.dfpwm
+The_Church_Bells.dfpwm
+All_I_Have_to_Do.dfpwm
 Baby_Love.dfpwm
-Beach_Boys-I_get_Around.dfpwm
+Beach_Boys-I_get.dfpwm
 Come_Go_With_Me.dfpwm
 Mashed_Potato_Time.dfpwm
 There_Goes_My_Baby.dfpwm
