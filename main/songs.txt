@@ -1,3 +1,4 @@
+Everywhere_I_Go.dfpwm
 The_Church_Bells.dfpwm
 All_I_Have_to_Do.dfpwm
 Baby_Love.dfpwm
@@ -5,6 +6,7 @@ Beach_Boys-I_get.dfpwm
 Come_Go_With_Me.dfpwm
 Mashed_Potato_Time.dfpwm
 There_Goes_My_Baby.dfpwm
+creedance.dfpwm
 quiet.dfpwm
 mace.dfpwm
 mace2.dfpwm
@@ -12,4 +14,3 @@ Butcher.dfpwm
 IGNORE.dfpwm
 oil.dfpwm
 Excuse-me.dfpwm
-creedance.dfpwm
