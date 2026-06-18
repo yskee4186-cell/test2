@@ -14,3 +14,4 @@ Butcher.dfpwm
 IGNORE.dfpwm
 oil.dfpwm
 Excuse-me.dfpwm
+4BG.dfpwm
