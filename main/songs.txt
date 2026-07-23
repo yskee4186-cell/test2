@@ -21,3 +21,4 @@ oil.dfpwm
 Excuse-me.dfpwm
 4BG.dfpwm
 CHAOS.dfpwm
+Flower_Man.dfpwm
